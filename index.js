@@ -23,7 +23,8 @@ module.exports = {
         ],
         "quotemark": [
             true,
-            "single"
+            "single",
+            "jsx-single",
         ],
         "semicolon": [
             true,
